@@ -1,0 +1,6 @@
+Pour lancer l'application, double-cliquez simplement sur Run MoTuSche.bat.
+Pour que l'application fonctionne correctement, veuillez vous connecter à un réseau Wifi
+ENSSAT-PEDA pour avoir accès à la base de données de l'ENSSAT.
+
+Veuillez garder en tête que cette version de l'application n'est pas la version finale, 
+de nombreuses applications sont encore en cours d'implémentation.
